@@ -92,3 +92,7 @@ To make a user an admin, set their `role` field to `admin` in the `users` collec
 ## Author
 
 Vikram
+
+## License
+
+This project is for learning purposes.
